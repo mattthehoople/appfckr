@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AppFckr</title>
+    <link>https://appfckr.com/index.xml</link>
+    <description>Recent content on AppFckr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2017 | Follow on &lt;a href=&#34;https://twitter.com/mgjohansen&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://github.com/mgjohansen/hucore.git&#34; target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥</copyright>
+    <lastBuildDate>Mon, 26 Jun 2017 22:55:22 +0100</lastBuildDate>
+    <atom:link href="https://appfckr.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>creating a static site with hugo</title>
+      <link>https://appfckr.com/post/creating-a-static-site-with-hugo/</link>
+      <pubDate>Mon, 26 Jun 2017 22:55:22 +0100</pubDate>
+      
+      <guid>https://appfckr.com/post/creating-a-static-site-with-hugo/</guid>
+      <description>&lt;p&gt;A longtime ago, when I started my career, I spent most of my time creating sites that displayed a bit of content. Sometimes this content was clever, sometimes it was dumb, but more often than not it was little more than a bit of information of some form or other, marked up in html and made to look not-terrible with a bit of css and some images. Sometimes, if we were feeling particularly daring, we&amp;rsquo;d use a bit of javascript to make it move around in some awe-inspiring way or other, but bottom line it was just content, and it was good.&lt;/p&gt;
+
+&lt;p&gt;Then, sometimes, the client, in their infinite wisdom, decided that they didn&amp;rsquo;t want to pay us cold hard cash every time they wanted this content changed, and so they asked for this thing they&amp;rsquo;d heard of that would let them do that. &amp;ldquo;We need a CMS&amp;rdquo;, they&amp;rsquo;d say. It was not good.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;You don&amp;rsquo;t want a CMS&amp;rdquo;, we&amp;rsquo;d say, because we were nice like that. &amp;ldquo;CMS&amp;rsquo;s need databases and some form of scripting languages and a server that supports such things, and a person to support that server, and all of that costs money and pain and heartache and it&amp;rsquo;s a lot of effort for a bit of content that hardly ever changes.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;No&amp;rdquo;, they&amp;rsquo;d say. &amp;ldquo;We want a CMS.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Fuck&amp;rdquo;, we&amp;rsquo;d say, but quietly. Then we&amp;rsquo;d make them a CMS, and we&amp;rsquo;d charge then some money for it, and they&amp;rsquo;d never ever use it.&lt;/p&gt;
+
+&lt;p&gt;And so started a long standing hatred of CMS&amp;rsquo;s.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
